@@ -1,3 +1,4 @@
 # DecentralandTest
 Test
-Just test for Decentraland.
+test for Decentraland.
+readme
